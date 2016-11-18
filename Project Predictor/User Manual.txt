@@ -1,0 +1,29 @@
+			Profit Predictor
+
+
+About:
+
+	The profit predictor is used to predict the profit that a company can
+earn in an area with some specified population.
+	The predictor is based on the data supplied by the company of their 
+previous profits in various areas. 
+	
+	Technique used to make the predictor is linear regression.
+
+
+How to use:
+	The main class in the predictor is the Predictor class. 
+A set a data in txt files - population.txt , profit.txt has been provided as an example of 
+some company's experience data which is used in the linear regression algorith 
+to predict the approximate profit the company will gain in an area.
+
+On being prompt provide the file names:
+population.txt
+profit.txt
+
+If you have your own set of data then arrange them as in the example file to supply to 
+the program
+
+Hope you liked the predictor.
+
+THANK YOU
